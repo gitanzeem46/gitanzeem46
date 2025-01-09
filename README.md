@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanzeem Alam</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align=“right” alt=“coding” width=“400” src=“https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif?cid=ecf05e47uth13s0ryjdviprz1s71e2lfudmd183mp4cukwrh&ep=v1_gifs_related&rid=giphy.gif&ct=g”
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitanzeem46&label=Profile%20views&color=0e75b6&style=flat" alt="gitanzeem46" /> </p>
 
 - 📍I’m currently learning **Data Analyst | SQL | PYTHON | EXCEL | ML | DL | AWS | NLP | ANN | POWER BI**
