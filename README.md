@@ -5,7 +5,7 @@
 <h3 align="center">A Passionate Data Analyst from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gitanzeem46&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=vaishnaviabbugari&label=Profile%20views&color=0e75b6&style=flat"alt="Profile views" />
 </p>
 
 ---
