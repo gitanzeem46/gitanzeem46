@@ -4,10 +4,7 @@
 <h1 align="center">Hi, I'm Tanzeem Alam</h1>
 <h3 align="center">A Passionate Data Analyst from India</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vaishnaviabbugari&label=Profile%20views&color=0e75b6&style=flat"alt="Profile views" />
-</p>
-
+<p align="left"> <img src="https://camo.githubusercontent.com/e50bd70508dea272869396ad5150d34b3b2daead075b9939b95504d99b233766/68747470733a2f2f7265616374696f6e706f7765722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30392f6d616368696e652d6c6561726e696e672d6269672d646174612d616e616c79746963732d616e642d707265646963746976652d6c6f6769632e676966") alt="vaishnaviabbugari" /> </p>
 ---
 
 ### About Me
